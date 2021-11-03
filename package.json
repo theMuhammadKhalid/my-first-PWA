@@ -1,0 +1,23 @@
+{
+  "name": "my-first-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theMuhammadKhalid/my-first-PWA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theMuhammadKhalid/my-first-PWA/issues"
+  },
+  "homepage": "https://github.com/theMuhammadKhalid/my-first-PWA#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
