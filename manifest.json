@@ -1,6 +1,8 @@
 {
   "name": "My First PWA",
   "short_name": "PWA",
+  "start_url": ".",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icons/android-chrome-192x192.png",
