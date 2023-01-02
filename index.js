@@ -19,4 +19,4 @@ Notification.requestPermission().then((result) => {
 
 function randomNotification() {
   new Notification("Hi, This is my first PWA");
-}
+} // end randomNotification
